@@ -1,0 +1,4 @@
+caption_data/*
+output/*
+bert-base-uncased/*
+pretrained_model/*
