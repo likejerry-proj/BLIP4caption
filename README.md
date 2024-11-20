@@ -1,2 +1,2 @@
 # Introduction
-Lora finetuning on BLIP model for caption.
+LoRA finetuning on BLIP model for caption.
